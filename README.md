@@ -7,10 +7,10 @@
 
 ![alt text](https://github.com/YeinerCassiani/ViajesIntermunicipales/blob/main/Imagenes/CapturaRegister.PNG)
 
-<h3>IMPLEMENTACIÓN DE JXMAPVIEWER (AÚN EN CONSTRUCCIÓN)</h3> <br>
+<h3>IMPLEMENTACIÓN DE JXMAPVIEWER</h3> <br>
 
 ![alt text](https://github.com/YeinerCassiani/ViajesIntermunicipales/blob/main/Imagenes/CapturaImplementacionMapa.PNG)
 
 <h3>ADMIN</h3> <br>
 
-![alt text](https://github.com/YeinerCassiani/ViajesIntermunicipales/blob/main/Imagenes/Admin.PNG)
+![alt text](https://github.com/YeinerCassiani/ViajesIntermunicipales/blob/main/Imagenes/CapturaAdmin.PNG)
