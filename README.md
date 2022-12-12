@@ -14,3 +14,15 @@
 <h3>ADMIN</h3> <br>
 
 ![alt text](https://github.com/YeinerCassiani/ViajesIntermunicipales/blob/main/Imagenes/CapturaAdmin.PNG)
+
+<h3>ADMIN RUTAS</h3> <br>
+
+![alt text](https://github.com/YeinerCassiani/ViajesIntermunicipales/blob/main/Imagenes/CapturaAdminRutas.PNG)
+
+<h3>VENDEDOR</h3> <br>
+
+![alt text](https://github.com/YeinerCassiani/ViajesIntermunicipales/blob/main/Imagenes/CapturaVendedor.PNG)
+
+<h3>VOUCHER DE COMPRA</h3> <br>
+
+![alt text](https://github.com/YeinerCassiani/ViajesIntermunicipales/blob/main/Imagenes/CapturaVoucher.PNG)
